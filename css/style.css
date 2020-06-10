@@ -1,0 +1,72 @@
+/*body*/
+*{
+	margin: 10px 0;
+	padding: 0;
+	background-color: #f7de99;
+}
+.welcoming{
+	border: 3px solid blue;
+	display: auto;
+	width: 400px;
+	padding: 20px;
+	margin-left: 50px;
+	margin-top: 20px;
+	float: inline-start;
+
+}
+.hh{
+	margin-left: 0;!important
+}
+/*.color1{	background-color: #94250f; !important }
+.color2{background-color: #ed0511;!important }*/
+#inlining{
+	margin-left: 180px;
+
+}
+img{
+	margin-left:200px; 
+}
+.edu_skill{
+	margin-top: 20px;
+	margin-left: 180px;
+}
+h3{
+    padding: 20px;
+	display: inline;}
+.list{
+	margin-left: 280px;
+}
+h2 ,h4{
+	padding:40px;
+	margin-left: 185px; 
+}
+thead, tbody, tr, td{
+	padding: 20px;
+	text-align: center;
+	border-color: blue;
+}
+.list{
+	text-align: auto;
+	margin-left: 50px;
+}
+.tab{
+	margin-left: 330px;
+}
+ol{
+	margin-left: 220px;
+}
+ul{margin-left: 100px;}
+hr{width:1300px;
+   height: 2px;
+   align-items: center;
+	}
+.fo{
+	margin-left: 340px;
+	}
+input{
+	padding-right: 20px;
+	margin-left:30px;
+}
+blockquote{
+	margin-left: 320px;
+}
